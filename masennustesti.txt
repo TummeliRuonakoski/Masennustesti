@@ -1,0 +1,126 @@
+Kysymys 1.
+En ole surullinen.
+Olen alakuloinen ja surullinen.
+Olen tuskastumiseen asti surullinen ja alakuloinen.
+Olen niin onneton, etten enää kestä.
+
+Kysymys 2.
+Tulevaisuus ei masenna eikä pelota minua.
+Tulevaisuus pelottaa minua.
+Minusta tuntuu, ettei tulevaisuudella ole tarjottavanaan minulle juuri mitään.
+Minusta tuntuu, että tulevaisuus on toivoton. En jaksa uskoa, että asiat muuttuvat tästä parempaan päin.
+
+Kysymys 3.
+En tunne epäonnistuneeni.
+Minusta tuntuu, että olen epäonnistunut useammin kuin muut ihmiset.
+Elämäni on tähän saakka ollut vain sarja epäonnistumisia.
+Minusta tuntuu, että olen täysin epäonnistunut ihmisenä.
+
+Kysymys 4.
+En ole erityisen haluton.
+En osaa nauttia asioista niin kuin ennen.
+Minusta tuntuu, etten saa tyydytystä juuri mistään.
+Olen haluton ja tyytymätön kaikkeen.
+
+Kysymys 5.
+En tunne erityisemmin syyllisyyttä.
+Minusta tuntuu, että olen aika huono ja kelvoton.
+Nykyään tunnen itseni huonoksi ja kelvottomaksi melkein aina.
+Tunnen olevani erittäin huono ja arvoton.
+
+Kysymys 6.
+En koe, että minua rangaistaan.
+Tunnen, että jotain pahaa voi sattua minulle.
+Uskon, että kohtalo rankaisee minua.
+Tunnen, että olen tehnyt sellaista, josta minua on syytäkin rangaista.
+
+Kysymys 7. 
+En ole pettynyt itseeni.
+Olen pettynyt itseeni.
+Inhoan itseäni.
+Vihaan itseäni.
+
+Kysymys 8.
+Tunnen, että olen yhtä hyvä kuin muutkin.
+Kritisoin itseäni heikkouksista.
+Moitin itseäni virheistäni.
+Moitin itseäni kaikesta, mikä "menee pieleen".
+
+Kysymys 9.
+En ole ajatellut vahingoittaa itseäni.
+Olen joskus ajatellut itseni vahingoittamista, mutten kuitenkaan tee niin.
+Mielessäni on selvät itsemurhasuunnitelmat.
+Tapan itseni, kun siihen tulee tilaisuus.
+
+Kysymys 10.
+En itke tavallista enempää.
+Itken nykyään aiempaa enemmän.
+Itken nykyään jatkuvasti.
+En kykene enää itkemään, vaikka haluaisin.
+
+Kysymys 11.
+En ole sen ärtyneempi kuin ennenkään.
+Ärsyynnyn aiempaa herkemmin.
+Tunnen, että olen ärtynyt koko ajan.
+Minua eivät enää liikuta asiat, joista aiemmin raivostuin.
+
+Kysymys 12.
+Olen edelleen kiinnostunut muista ihmisistä.
+Muut kiinnostavat minua aiempaa vähemmän.
+Kiinnostukseni ja tunteeni muita kohtaan ovat miltei kadonneet.
+Olen menettänyt kaiken mielenkiintoni muita kohtaan, enkä välitä heistä enää lainkaan.
+
+Kysymys 13.
+Pystyn tekemään päätöksiä, kuten ennenkin.
+Yritän lykätä päätöksentekoa.
+Minun on hyvin vaikeata tehdä päätöksiä.
+En pysty enää lainkaan tekemään päätöksiä
+
+Kysymys 14. 
+Mielestäni ulkonäköni ei ole muuttunut.
+Olen huolissani siitä, että näytän vanhalta tai etten näytä miellyttävältä.
+Minusta tuntuu, että ulkonäköni on muuttunut pysyvästi niin, etten näytä miellyttävältä.
+Tunnen olevani ruma ja vastenmielisen näköinen.
+
+Kysymys 15.
+Työkykyni on säilynyt ennallaan.
+Työn aloittaminen vaatii minulta ylimääräisiä ponnistuksia.
+Saadakseni aikaan jotakin minun on suorastaan pakotettava itseni siihen.
+En kykene lainkaan tekemään työtä.
+
+Kysymys 16.
+Nukun yhtä hyvin kuin ennen.
+Olen aamuisin väsyneempi kuin ennen.
+Herään nykyisin 1-2 tuntia normaalia aikaisemmin enkä nukahda enää uudelleen.
+Herään aikaisin joka aamu, enkä pysty nukkumaan viittä tuntia pitempään yhtäjaksoisesti.
+
+Kysymys 17.
+En väsy sen nopeammin kuin ennen.
+Väsyn nopeammin kuin ennen.
+Väsyn lähes tyhjästä.
+Olen liian väsynyt tehdäkseni mitään.
+
+Kysymys 18.
+Ruokahaluni on ennallaan.
+Ruokahaluni on huonompi kuin ennen.
+Ruokahaluni on nyt paljon huonompi kuin ennen.
+Minulla ei ole lainkaan ruokahalua.
+
+Kysymys 19.
+Painoni on pysynyt viime aikoina ennallaan.
+Olen laihtunut yli 2,5 kg.
+Olen laihtunut yli 5 kg.
+Olen laihtunut yli 7,5 kg.
+
+Kysymys 20.
+En ajattele terveyttäni tavallista enempää.
+Kiinnitän tavallista enemmän huomiota särkyihin ja kipuihin, vatsavaivoihin ja ummetukseen.
+Tarkkailen ruumiintuntemuksiani niin paljon, ettei muille ajatuksille jää aikaa.
+Terveyteni ja tuntemusteni ajatteleminen on kokonaan vallannut mieleni.
+
+Kysymys 21.
+Kiinnostukseni sukupuolielämään on pysynyt ennallaan.
+Kiinnostukseni sukupuolielämään on vähentynyt.
+Kiinnostukseni sukupuolielämään on huomattavasti vähäisempää kuin aikaisemmin.
+Olen menettänyt kaiken mielenkiintoni sukupuolielämään.
+
