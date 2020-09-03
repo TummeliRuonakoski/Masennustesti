@@ -1,3 +1,3 @@
 # Masennustesti
 
-Masennustesti on virallisesti käytetty masennustesti. 
+Masennustestissä on samat kysymykset kuin virallisessa masennustestissä, jonka löytää esimerkiksi https://www.mielenterveystalo.fi
